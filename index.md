@@ -2,7 +2,7 @@
 
 I'm a current graduate student, and security researcher of sorts. I am also interested in privacy and anonymity technology, human computer interaction, and the perpetually evolving relationship between technology and society.
 
-## Research
+# Research
 Currently exploring threats to modern HPC systems and  their potential impact on data integrity, confidentiality, and availability.  
 Broadly, my research interests also include
 - Low latency anonymity netowkrs (mainly Tor)
@@ -15,7 +15,7 @@ Hannah Cartier, James Dinan, Brian Larkins.
 [“Optimizing Work Stealing Communications With Structured Atomic Operations”](https://www.researchgate.net/publication/353224638_Optimizing_Work_Stealing_Communication_with_Structured_Atomic_Operations) [ICPP Conference Paper]
 Research code found [here](https://github.com/brianlarkins/saws)
 
-## Some skills Ive picked up
+# Some skills Ive picked up
 - Linux/Unix systems administration
 - IT/OT automation using ansible
 - parrallel programming using both shared memory and message passing models.
@@ -28,7 +28,7 @@ Research code found [here](https://github.com/brianlarkins/saws)
 
 (Not necessarily in that order)
 
-## Work Experience
+# Work Experience
 **Machine Learning Intern, Idaho National Lab**     <em>future</em>
 * Using ML to detect threats in 5G networks or something
 
@@ -42,7 +42,7 @@ Research code found [here](https://github.com/brianlarkins/saws)
 - developed expirements eo study human locomotion in virtual environments
 - worked with unity game engine, and integration with an advanced motion capture system.
 
-## Hobbies
+# Hobbies
 1. Climbing Rocks
 2. Climbing Trees
 3. Martial Arts
