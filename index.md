@@ -7,7 +7,7 @@ Currently exploring threats to modern HPC systems and  their potential impact on
 Broadly, my research interests also include
 - Low latency anonymity netowkrs (mainly Tor)
 - Trends in cybercrime
-- User Experience and its impact adoption of varios technologies
+- User Experience and its impact adoption of various technologies
 
 ### Previous Publications
 
