@@ -39,7 +39,7 @@ Research code found [here](https://github.com/brianlarkins/saws)
 - automation tasks
 
 **Research Assistant, Rhodes college virtual reality lab:**     <em>2021</em>
-- developed expirements eo study human locomotion in virtual environments
+- developed expirements to study human locomotion in virtual environments
 - worked with unity game engine, and integration with an advanced motion capture system.
 
 # Hobbies
