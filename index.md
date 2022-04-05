@@ -18,7 +18,7 @@ Research code found [here](https://github.com/brianlarkins/saws)
 # Some skills Ive picked up
 - Linux/Unix systems administration
 - IT/OT automation using ansible
-- parrallel programming using both shared memory and message passing models.
+- parallel programming using both shared memory and message passing models.
 - Bypassing various physical security mechanisms
 - Social Engineering
 - Computer Networks
