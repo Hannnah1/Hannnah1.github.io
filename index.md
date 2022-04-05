@@ -5,7 +5,7 @@ I'm a current graduate student, and security researcher of sorts. I am also inte
 # Research
 Currently exploring threats to modern HPC systems and  their potential impact on data integrity, confidentiality, and availability.  
 Broadly, my research interests also include
-- Low latency anonymity netowokrs (mainly Tor)
+- Low latency anonymity netwokrs (mainly Tor)
 - Trends in cybercrime
 - User Experience and its impact on adoption of various technologies
 
