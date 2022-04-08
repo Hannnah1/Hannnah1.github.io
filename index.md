@@ -1,7 +1,7 @@
-# Hi there.
+# $ whoami
 
-I'm a current graduate student, and security researcher of sorts. I am also interested in privacy and anonymity technology, human computer interaction, and the perpetually evolving relationship between technology and society.
-
+I'm a current graduate student, and security researcher of sorts. I am also interested in privacy and anonymity technology, human computer interaction,  
+and the perpetually evolving relationship between technology and society.
 # Research
 Currently exploring threats to modern HPC systems and  their potential impact on data integrity, confidentiality, and availability.  
 Broadly, my research interests also include
